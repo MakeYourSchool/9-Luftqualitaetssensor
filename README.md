@@ -1,32 +1,28 @@
-## Grove Air Quality Sensor  [![Build Status](https://travis-ci.com/Seeed-Studio/Grove_Air_quality_Sensor.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Grove_Air_quality_Sensor)
-  [![Build Status](https://travis-ci.com/Seeed-Studio/Grove_Air_quality_Sensor.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Grove_Air_quality_Sensor)-------------------------------------------------------------
-![](https://statics3.seeedstudio.com/images/101020021%201.jpg)
+Luftqualitätssensor
+----
+*(Seeed Studio Grove – Air quality sensor 1.3)*
 
-[Grove Air Quality Sensor](https://www.seeedstudio.com/Grove-Air-quality-sensor-p-1065.html)
+<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/9_luftqualitaetssensor-1024x1024.jpg width=400px>
 
-This sensor is designed for comprehensive monitoring of indoor air conditions.
-It's responsive to a wide scope of harmful gases such as carbon monoxide, alcohol, acetone, thinner, formaldehyde and so on.
-Due to the measuring mechanism, this sensor can not output specific data to describe target gases' concentrations quantitatively.
-But it's still competent enough to be used in applications that require only qualitative results, like auto refresher sprayers and auto air cycling systems.
+Der Luftqualitätssensor erfasst unterschiedlich auftretende, toxische Gase, wie beispielsweise Kohlenmonoxid, Alkohol, Aceton und Thinner. Jedoch ermöglicht das Messprinzip keine exakten (quantitativen) Angaben über die vorhandenen Gaskonzentrationen. Allerdings reicht der Sensor aus, um deren Präsenz qualitativ in vier groben Konzentrationsstufen einzuteilen.
 
-For more information, please refer to the [wiki page][1]
+Der Sensor wird direkt oder mithilfe des Grove Shields an einen Arduino angeschlossen.
+
+Der Sensor benötigt hierfür nur einen analogen Pin.
+
+Der Luftqualitätssensor kann beispielsweise zur Realisierung eines Raumerfrischers eingesetzt werden.
 
 ----
-This software is written by Bruce Qin for Seeed Studio<br>
-and is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php). Check license.txt for more information.<br>
 
-Contributing to this software is warmly welcomed. You can do this basically by<br>
-[forking](https://help.github.com/articles/fork-a-repo), committing modifications and then submitting a [pull request](https://help.github.com/articles/using-pull-requests) (follow the links above<br>
-for operating guide). Adding change log and your contact into file header is encouraged.<br>
-Thanks for your contribution.
+In diesem Repository findet ihr **Bibliotheken und Beispiel-Codes**, mit denen der hier vorliegende Sensor getestet werden kann. Wir richten uns hiermit an **jeden Mentor und jede Mentorin aus dem Rahmen von Make Your School** und ermutigen euch, die hier zusammengestellten Codes **nach Bedarf** und individuell gemachten Erfahrungen **anzupassen**. Beispiele können einfach im Ordner /examples hinzugefügt oder angepasst werden. Wir versuchen das Repository regelmäßig mit Hilfe von euren Änderungsvorschlägen zu aktualisieren.
 
-Seeed Studio is an open hardware facilitation company based in Shenzhen, China. <br>
-Benefiting from local manufacturing power and a convenient global logistic system, <br>
-we integrate resources to serve a new era of innovation. Seeed also works with <br>
-global distributors and partners to push the open hardware movement.<br>
+Das Repository basiert grundlegend auf den veröffentlichten Informationen und Codes von Seeed Studio. 
+Die deutsche Übersetzung stammt von [Make Your School](https://www.makeyourschool.de/). Fehlinterpretationen und Änderungen vorbehalten. Die Informationen dürfen frei genutzt, angepasst und verbreitet werden, solange die [Nutzungsrechte von Seeed Studio](https://github.com/Seeed-Studio/Grove_Dust_Sensor/blob/master/License.txt) beachtet werden. 
 
+**Weitere Informationen:**
 
-[1]:http://wiki.seeedstudio.com/Grove-Air_Quality_Sensor_v1.3
+[Repository von Seed Studio](https://github.com/Seeed-Studio/)
 
+[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove/)
 
-[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Grove_Air_quality_Sensor)](https://github.com/igrigorik/ga-beacon)
+[Materialkoffer von Make Your School](https://www.makeyourschool.de/material/)
