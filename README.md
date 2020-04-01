@@ -25,8 +25,8 @@ Das Repository basiert grundlegend auf den veröffentlichten Informationen und C
 
 **Weitere Informationen:**
 
-[Repository von Seed Studio](https://github.com/Seeed-Studio/Grove_Air_quality_Sensor)
+[Repository von Seeed Studio](https://github.com/Seeed-Studio/Grove_Air_quality_Sensor)
 
-[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove-Air_Quality_Sensor_v1.3/)
+[Offizielles Wiki von Seeed Studio](http://wiki.seeedstudio.com/Grove-Air_Quality_Sensor_v1.3/)
 
 [Materialkoffer von *Make Your School*](https://www.makeyourschool.de/material/luftqualitaetssensor/)
